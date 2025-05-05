@@ -30,9 +30,7 @@ Enumera las principales tecnologías y bibliotecas que has utilizado en el proye
 
 Describe la estructura de carpetas de tu proyecto. Por ejemplo:
 
-
-![1746475370997](images/README/1746475370997.png)
-
+![1746475370997](images/1746475370997.png)
 
 ## Contribución
 
